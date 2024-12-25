@@ -1,1 +1,1 @@
-# Drosophila
+Here is the main code for article entitled “Network Structure Governs Drosophila Brain Functionality”. The source data is open at http://flywire.ai. Please contact xiaoyu_zhang2023@163.com for further technical support. 
